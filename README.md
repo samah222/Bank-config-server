@@ -36,7 +36,7 @@ To run this project, you need the following tools installed:
 
 2. Navigate to the project directory:
    ```bash
-   cd Bank-config-server.git
+   cd Bank-config-server
    
 3. Build and run the Spring Boot Server:
     ```bash
